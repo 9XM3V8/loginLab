@@ -23,7 +23,6 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits"/>
                                 <connections>
-                                    <action selector="userNameTextField:" destination="UG8-au-m1d" eventType="editingDidEnd" id="Pqe-ik-NeR"/>
                                     <action selector="userNameTextFieldChanged:" destination="UG8-au-m1d" eventType="editingDidEnd" id="c3R-Gh-BFS"/>
                                 </connections>
                             </textField>
